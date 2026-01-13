@@ -1,0 +1,127 @@
+[
+  {
+    "pattern_id": "P1",
+    "problem_type": "Resource Allocation",
+    "description": "Divide the problem into independent resource units and optimize allocation separately.",
+    "used_in": "Smart city traffic systems",
+    "solution_steps": [
+      "Identify resources",
+      "Detect bottlenecks",
+      "Optimize allocation"
+    ]
+  },
+  {
+    "pattern_id": "P2",
+    "problem_type": "Scalability",
+    "description": "Use modular and distributed system design to handle growth.",
+    "used_in": "Startup platform scaling",
+    "solution_steps": [
+      "Break into modules",
+      "Scale independently",
+      "Monitor performance"
+    ]
+  },
+  [
+  {
+    "problem_type": "Resource Allocation",
+    "description": "Divide the problem into independent resource units and optimize allocation separately.",
+    "used_in": "Smart city traffic systems",
+    "solution_steps": [
+      "Identify resources",
+      "Detect bottlenecks",
+      "Optimize allocation"
+    ]
+  },
+  {
+    "problem_type": "Scalability",
+    "description": "Use modular and distributed system design to handle growth.",
+    "used_in": "Startup platform scaling",
+    "solution_steps": [
+      "Break system into modules",
+      "Scale components independently",
+      "Monitor performance"
+    ]
+  },
+  {
+    "problem_type": "Cost Optimization",
+    "description": "Reduce unnecessary expenditure by identifying low-impact or inefficient activities.",
+    "used_in": "Public sector budgeting",
+    "solution_steps": [
+      "Audit current spending",
+      "Identify low-value expenses",
+      "Reallocate funds"
+    ]
+  },
+  {
+    "problem_type": "Process Automation",
+    "description": "Automate repetitive and rule-based tasks to improve efficiency and reduce errors.",
+    "used_in": "Manufacturing and IT operations",
+    "solution_steps": [
+      "Identify repetitive tasks",
+      "Apply automation tools",
+      "Monitor outcomes"
+    ]
+  },
+  {
+    "problem_type": "Bottleneck Identification",
+    "description": "Identify and resolve the slowest or most constrained part of a system to improve overall performance.",
+    "used_in": "Supply chain optimization",
+    "solution_steps": [
+      "Map system flow",
+      "Locate bottlenecks",
+      "Optimize constrained areas"
+    ]
+  },
+  {
+    "problem_type": "Demand Forecasting",
+    "description": "Predict future demand using historical patterns to plan resources effectively.",
+    "used_in": "Retail and inventory management",
+    "solution_steps": [
+      "Analyze historical data",
+      "Identify demand trends",
+      "Adjust supply planning"
+    ]
+  },
+  {
+    "problem_type": "Risk Mitigation",
+    "description": "Identify potential risks early and apply preventive measures to minimize impact.",
+    "used_in": "Project management",
+    "solution_steps": [
+      "Identify risks",
+      "Assess impact",
+      "Apply mitigation strategies"
+    ]
+  },
+  {
+    "problem_type": "Stakeholder Coordination",
+    "description": "Improve outcomes by aligning goals and communication among multiple stakeholders.",
+    "used_in": "Public policy implementation",
+    "solution_steps": [
+      "Identify stakeholders",
+      "Align objectives",
+      "Establish communication channels"
+    ]
+  },
+  {
+    "problem_type": "Data-Driven Decision Making",
+    "description": "Use collected data and evidence instead of intuition to guide decisions.",
+    "used_in": "Business strategy planning",
+    "solution_steps": [
+      "Collect relevant data",
+      "Analyze patterns",
+      "Make evidence-based decisions"
+    ]
+  },
+  {
+    "problem_type": "Incremental Improvement",
+    "description": "Improve systems gradually through small, continuous changes rather than large overhauls.",
+    "used_in": "Quality management systems",
+    "solution_steps": [
+      "Identify small improvements",
+      "Implement changes",
+      "Measure impact"
+    ]
+  }
+]
+
+]
